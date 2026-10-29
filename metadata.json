@@ -1,0 +1,6 @@
+{
+  "name": "YouPI-PG — Zero-Fee UPI Payment Gateway",
+  "description": "Self-hosted, zero-custody UPI payment gateway with atomic [VPA + Amount] FIFO queueing, server-authoritative dual countdown timers, and cryptographic HMAC-SHA256 bank alert observation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
